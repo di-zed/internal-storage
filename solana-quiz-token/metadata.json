@@ -1,0 +1,12 @@
+{
+  "name": "Solana Quiz Token",
+  "symbol": "SQT",
+  "description": "Solana Quiz Token 🚀",
+  "image": "https://raw.githubusercontent.com/di-zed/internal-storage/refs/heads/main/solana-quiz-token.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/di-zed/internal-storage/refs/heads/main/solana-quiz-token.png", "type": "image/png" }
+    ]
+  }
+}
