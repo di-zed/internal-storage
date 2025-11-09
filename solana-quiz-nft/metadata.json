@@ -1,0 +1,15 @@
+{
+  "name": "Solana Quiz Streaker: 7 Days",
+  "symbol": "SQS7D",
+  "description": "Awarded for completing a 7-day streak of correct answers in Solana Quiz",
+  "image": "https://raw.githubusercontent.com/di-zed/internal-storage/refs/heads/main/solana-quiz-nft/image.png",
+  "attributes": [
+    {"trait_type": "Streak Days", "value": 7},
+    {"trait_type": "Type", "value": "Quiz Achievement"}
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/di-zed/internal-storage/refs/heads/main/solana-quiz-nft/image.png", "type": "image/png" }
+    ]
+  }
+}
